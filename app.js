@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 2b - スラッシュコマンドを定義する
+ *  Lesson Slack 2 - スラッシュコマンドを定義する
  * 
  * [NOTE]
  */
